@@ -1,0 +1,23 @@
+{
+  "name": "crazy-panda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karen355/crazy-panda.git"
+  },
+  "author": "Karen Gevorkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karen355/crazy-panda/issues"
+  },
+  "homepage": "https://github.com/Karen355/crazy-panda#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
