@@ -4,6 +4,7 @@ $( function() {
       $("button").removeClass("active");
       $(this).addClass("active");
       selectingTypeColor = event.target.innerHTML;
+      refreshContent();
     } );
     function hexFromRGB(r, g, b) {
       var hex = [
